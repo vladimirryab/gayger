@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gayger</string>
+    <string name="version">Версия приложения от 19/04/2023</string>
+    <string name="desc">Иконка радиации</string>
+    <string name="button">НАЧАТЬ</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="start_search">НАЧАТЬ ПОИСК</string>
+    <string name="stop_search">ОСТАНОВИТЬ ПОИСК</string>
+    <string name="list">Список сопряженных устройств:</string>
+    <string name="founded">Список найденных устройств:</string>
+    <string name="result">0 БК/м³</string>
+
+</resources>
